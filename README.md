@@ -1,2 +1,2 @@
 # Hello-World
-This is my first repository... So I'm not quite sure how to do this.
+This is my first repository... So I'm not quite sure how to do this. I think I'll go watch a YouTube on it now...
